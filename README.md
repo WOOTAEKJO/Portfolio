@@ -15,7 +15,6 @@
 
 # Project
 ## 1. 파이널 판타지 7 리메이크 모작
-[![Video Label]( http://img.youtube.com/vi/oPwEHSDcpRA/0.jpg)](https://www.youtube.com/watch?v=oPwEHSDcpRA)
 [<img src=http://img.youtube.com/vi/oPwEHSDcpRA/0.jpg width = "50" height="50"/>](https://www.youtube.com/watch?v=oPwEHSDcpRA)
 
 ## 2. 펌킨잭 모작

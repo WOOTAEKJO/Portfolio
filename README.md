@@ -21,4 +21,7 @@
 [<img src=http://img.youtube.com/vi/J6LO7nQVhc0/0.jpg width = "400" height="300"/>](https://www.youtube.com/watch?v=J6LO7nQVhc0)
 
 ## 3. 마인크래프트 던전스 모작
+[<img src=http://img.youtube.com/vi/B2c3KQ6zUYA/0.jpg width = "400" height="300"/>](https://www.youtube.com/watch?v=B2c3KQ6zUYA)
+
 ## 4. 할로우 나이트 모작
+[<img src=http://img.youtube.com/vi/6vre5ywQXbk/0.jpg width = "400" height="300"/>](https://www.youtube.com/watch?v=6vre5ywQXbk)

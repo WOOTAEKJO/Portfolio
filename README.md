@@ -8,7 +8,7 @@
 
 여러분과 함께 재미있고 매력적인 게임을 만들어 나가고 싶습니다.
 
-#Contact
+# Contact
 * Phone  : 010-8235-1071
 * E-Mail : jwt107100@gmail.com
 * Github : [깃허브](https://github.com/WOOTAEKJO, "깃허브")

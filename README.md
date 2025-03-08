@@ -25,6 +25,10 @@
 
   2024년 2월 13일 ~ 2024년 4월 15일
 
+* 사용기술
+
+  C++, DirectX11, ImGui, HLSL
+
 ## 2. 펌킨잭 모작
 [<img src=http://img.youtube.com/vi/J6LO7nQVhc0/0.jpg width = "400" height="300"/>](https://www.youtube.com/watch?v=J6LO7nQVhc0)
 

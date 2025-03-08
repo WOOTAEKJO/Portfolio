@@ -18,8 +18,7 @@
 [<img src=http://img.youtube.com/vi/oPwEHSDcpRA/0.jpg width = "400" height="300"/>](https://www.youtube.com/watch?v=oPwEHSDcpRA)
 * 개요
   
-  DirectX 11을 활용한 4인 팀 프로젝트로,
-  
+  DirectX11을 활용한 4인 팀 프로젝트로,
   플레이어가 몬스터와의 역동적인 전투를 경험할 수 있는 액션 RPG 게임입니다.
 
 ## 2. 펌킨잭 모작
